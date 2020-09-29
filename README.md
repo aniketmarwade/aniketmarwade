@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer & Graphic Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmarwade" alt="aniketmarwade" /> </p>
-
+(https://media-exp1.licdn.com/dms/image/C4D16AQH26aMBE0XncA/profile-displaybackgroundimage-shrink_200_800/0?e=1606953600&v=beta&t=lvn2iqNevxhKUjdz1bsrQ5lNXXRhUjUStLe5bkCrBaM)
 - 🔭 I’m currently working on **Wallpaper App**
 
 - 🌱 I’m currently learning **Flutter**
