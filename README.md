@@ -3,16 +3,39 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmarwade" alt="aniketmarwade" /> </p>
 
+- 🔭 I’m currently working on **Wallpaper App**
+
+- 🌱 I’m currently learning **Flutter**
+
+- 👯 I’m looking to collaborate on **Bootstrap and Materialize CSS**
+
+- 🤝 I’m looking for help with **AWS**
+
+- 👨‍💻 All of my projects are available at [aniketmarwade.rf.gd](aniketmarwade.rf.gd)
+
+- 📝 I regulary write articles on [aniketmarwade.ml](aniketmarwade.ml)
+
+- 💬 Ask me about **Materialize CSS, Flutter, Web**
+
+- 📫 How to reach me **aniketmarwade@yahoo.com**
+
+- ⚡ Fun fact **I am still single**
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/aniketmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aniketmarwade" height="30" width="40" /></a>
+<a href="https://twitter.com/aniketmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aniketmarwade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniketmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aniketmarwade" height="30" width="40" /></a>
 <a href="https://codesandbox.com/aniketmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="aniketmarwade" height="30" width="40" /></a>
+<a href="https://instagram.com/aniket0500" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aniket0500" height="30" width="40" /></a>
 <a href="https://dribbble.com/aniketmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="aniketmarwade" height="30" width="40" /></a>
 <a href="https://www.behance.net/frgtty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="frgtty" height="30" width="40" /></a>
-<a href="https://medium.com/aniketsmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="aniketsmarwade" height="30" width="40" /></a>
+<a href="https://medium.com/@aniketsmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aniketsmarwade" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aflotech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="aflotech" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aniketsmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aniketsmarwade" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aniketmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aniketmarwade" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aniketmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aniketmarwade" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aniketmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="aniketmarwade" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/aniketmarwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="aniketmarwade" height="30" width="40" /></a>
 </p>
 
