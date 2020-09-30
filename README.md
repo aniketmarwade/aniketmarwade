@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **AWS**
 
-- 👨‍💻 All of my projects are available at [aniketmarwade.rf.gd](aniketmarwade.rf.gd)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aniketmarwade.github.io/aniketsresume.github.io/#)
 
 - 📝 I regulary write articles on [aniketmarwade.ml](aniketmarwade.ml)
 
