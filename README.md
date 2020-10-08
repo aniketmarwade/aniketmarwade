@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D16AQH26aMBE0XncA/profile-displaybackgroundimage-shrink_200_800/0?e=1606953600&v=beta&t=lvn2iqNevxhKUjdz1bsrQ5lNXXRhUjUStLe5bkCrBaM" alt="" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmarwade" alt="aniketmarwade" /> </p>
 
-- 🔭 I’m currently working on **Wallpaper App**
+- 🔭 I’m currently working on **Get Blood Website**
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aniketmarwade.github.io/aniketsresume.github.io/#)
 
-- 📝 I regulary write articles on [aniketmarwade.ml](aniketmarwade.ml)
+- 📝 I regulary write articles on [My Blog](https://thebitterengineer.blogspot.com/)
 
 - 💬 Ask me about **Materialize CSS, Flutter, Web**
 
